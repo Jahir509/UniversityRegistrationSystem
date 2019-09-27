@@ -1,0 +1,10 @@
+href="a_home.html">Home
+href="a_registration">Home
+href="a_show_course.php">Resource
+href="a_section.php">Account
+href="a_result.php">Result
+href="a_script_check.php">Script Recheck
+href="a_help.php">Help
+
+5-1202
+123456
